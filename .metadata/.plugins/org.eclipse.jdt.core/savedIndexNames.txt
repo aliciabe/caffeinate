@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\Alicia\Documents\GitHub\caffeinate\.metadata\.plugins\org.eclipse.jdt.core
+3784383764.index
+364749754.index
